@@ -4,8 +4,8 @@
 ## Introduction
 
 ## Dashboards
-![](dashboard1.PNG)
+![](images/dashboard1.PNG)
 
-![](dashboard2.PNG)
+![](images/dashboard2.PNG)
 
-![](dashboard3.PNG)
+![](images/dashboard3.PNG)
